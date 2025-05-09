@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Gagan Madhan<br>👀 I’m interested in Web Development and CP<br>🌱 I’m currently learning NextJS and DSA&DAA<br>📫 Reach me at gaganmadhan16@gmail.com
+👋 Hi, I’m Gagan Madhan<br>👀 I’m interested in Web Development and CP<br>🌱 I’m currently learning webRTC and DSA<br>📫 Reach me at gaganmadhan16@gmail.com
 
 
 # 💻 Tech Stack:
